@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 😁☕
 
-<!--
-**LeonardoJaques/leonardojaques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Leonardo Jaques, Brazilian 🇧🇷 ✊🏿, 
+I am passionate about Marketing🎯💡, Technology💻 📲 and Design🌇. 
 
-Here are some ideas to get you started:
+I worked in advertising agencies, 
+technology company, publishers and finance. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my repository you will find projects related to 
+the mobile area, academic and personal works.
+
+my social networks follow below:
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lajaques)](https://twitter.com/lajaques)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardojaquesprojetos)](https://www.linkedin.com/in/leonardojaquesprojetos)
