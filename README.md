@@ -16,7 +16,7 @@ my social networks follow below:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardojaques-dev)](https://www.linkedin.com/in/leonardojaques-dev)
 [![Blog Badge](https://img.shields.io/badge/Behance-LJaques-blue?style=flat)](https://www.behance.net/LJaques)
 
-[![trophy](https://github-profile-trophy.vercel.app/?leonardojaques=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/leonardojaques=ryo-ma&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://dev.to/lajaques">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leonardo Jaques's DEV Community Profile" height="100" width="100">
