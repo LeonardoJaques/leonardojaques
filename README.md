@@ -1,4 +1,4 @@
-### Hi there! 😁☕
+## Hi there! 😁☕
 
 My name is Leonardo Jaques, Brazilian 🇧🇷 ✊🏿, 
 I am passionate about Marketing🎯💡, Technology💻 📲 and Design🌇. 
@@ -8,6 +8,19 @@ technology company, publishers and finance.
 
 In my repository you will find projects related to 
 the mobile area, academic and personal works.
+
+### My Main Skills
+
+- NodeJS 🥷🥷 
+- ReactJS 🥷🥷🥷🥷
+- VueJS 🥷🥷🥷
+
+- MySQL 🥷🥷🥷
+- MongoDB 🥷🥷🥷
+- Firebase 🥷🥷
+
+- AWS codeCommit 🥷🥷
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoJaques&show_icons=true&theme=radical)
 
