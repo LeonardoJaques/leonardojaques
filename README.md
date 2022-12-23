@@ -37,4 +37,3 @@ my social networks follow below:<br/><br/>
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leonardo Jaques's DEV Community Profile" height="100" width="100">
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=LeonardoJaques&label=Profile%20Views&color=12&icon=8&pretty=false)](https://visitcount.itsvg.in)<br/>
