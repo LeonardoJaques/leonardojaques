@@ -39,3 +39,6 @@ my social networks follow below:<br/><br/>
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Leonardo Jaques's DEV Community Profile" height="100" width="100">
 </a>
 
+<a href="https://hashnode.com/@LeonardoJaques">
+ <p>hashnode.com<p/>
+<a/> 
