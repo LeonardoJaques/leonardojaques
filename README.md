@@ -25,8 +25,7 @@ the mobile area, academic and personal works.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
-# 📊 GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoJaques&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 my social networks follow below:<br/><br/>
