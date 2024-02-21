@@ -25,8 +25,10 @@ the mobile area, academic and personal works.
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+# Outras informações
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonardojaques&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leonardojaques&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 my social networks follow below:<br/><br/>
