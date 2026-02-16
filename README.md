@@ -30,8 +30,8 @@
 
 ### 📈 jaques@archlinux:~$ fetch --stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=leonardojaques&show_icons=true&theme=terminal&include_all_commits=true&count_private=true" alt="Leonardo's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojaques&layout=compact&langs_count=6&theme=terminal" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardojaques&show_icons=true&theme=tokyonight" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojaques&layout=compact&theme=tokyonight" height="175" />
 </p>
 
 ---
