@@ -30,10 +30,9 @@
 
 ### 📈 jaques@archlinux:~$ fetch --stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardojaques&show_icons=true&theme=tokyonight" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardojaques&layout=compact&theme=tokyonight" height="175" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardojaques&theme=dracula" alt="Leonardo Jaques' Profile Details"/>
 
+</p>
 ---
 
 ### 🎙️ jaques@archlinux:~$ ls projects/
